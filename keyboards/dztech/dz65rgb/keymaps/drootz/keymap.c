@@ -711,7 +711,7 @@ void matrix_scan_user(void)
         }
         /* HELPER => spit out the url of the layout description page on github */
         SEQ_FIVE_KEYS(KC_GESC, KC_GESC, KC_GESC, KC_GESC, KC_GESC) { 
-            SEND_STRING("https://github.com/qmk/qmk_firmware/tree/master/keyboards/dztech/dz65rgb/keymaps/drootz"); // Pending Pull Request #8199
+            // SEND_STRING("https://github.com/qmk/qmk_firmware/tree/master/keyboards/dztech/dz65rgb/keymaps/drootz"); // Pending Pull Request #8199
             SEND_STRING("https://github.com/drootz/qmk_firmware/tree/dz65_drootz_tmppr/keyboards/dztech/dz65rgb/keymaps/drootz");
         }
         /*  google.ca   => LdrKey > G > G */
