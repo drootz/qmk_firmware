@@ -2,6 +2,8 @@
 
 # Drootz's DZ65RGBv2 ANSI Layout
 
+> NOTE: This is a branch of [pull request #8199](https://github.com/qmk/qmk_firmware/pull/8199) submitted to add this keymap layout to QMK repository. I will leave it open until the PR get merged so that you can have access to this keymap folder for now. Take what you need, cheers!
+
 This layout fit best people who mainly type in English but regularly need to type in French _(using an English keyboard in OS setting)_. There are also some cool LED indicator effects and tons of Leader Key bindings/macros designed to work on both Mac and Windows OS. I tried to keep things as simple as possible from a usability perspective. Enjoy!
 
 - [LAYERS](#LAYERS)
